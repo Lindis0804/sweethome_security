@@ -1,0 +1,4 @@
+opencv-python
+gpiozero
+picamera
+firebase_admin
